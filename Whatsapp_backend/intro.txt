@@ -1,0 +1,2 @@
+Here I have used Node.js, MongoDB-Atlas, Pusher to act as an intermediate inbetween front and backend to make it realtime.
+I have also used Postman as a API tester.
