@@ -1,0 +1,3 @@
+Hey this is the front end without node_modules
+
+and here we have used firebase for hosting and react, css, javascript for the front end.
